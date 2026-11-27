@@ -6,9 +6,9 @@ Mata Kuliah Java Visual (SIH-6406) · UNPRI Prodi Sistem Informasi.
 ## Anggota dan Peran
 | Nama | NIM | Peran | Username GitHub | Branch |
 |------|-----|-------|-----------------|--------|
-| [Veva Br Tarigan] | [253303621280] | Model Manager      | [vevatarigan] | feature/model |
-| [Abil Febrian Panggabean] | [253303621266] | View Manager       | [abilgaming01811-oss] | feature/view |
-| [Natanael Lata Saro Agassi Zebua] | [253303621260] | Controller Manager | [natanaelzebua] | feature/controller |
+| Veva Br Tarigan | 253303621280 | Model Manager      | vevatarigan | feature/model |
+| Abil Febrian Panggabean | 253303621266 | View Manager       | abilgaming01811-oss | feature/view |
+| Natanael Lata Saro Agassi Zebua | 253303621260 | Controller Manager | natanaelzebua | feature/controller |
 
 ## Teknologi
 Java 17 · JavaFX 21 · Maven · Scene Builder · VS Code
